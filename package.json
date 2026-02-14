@@ -10,7 +10,6 @@
     "typescript": "^5.9.3"
   },
   "dependencies": {
-    "mineflayer": "^4.34.0",
-    "mineflayer-pathfinder": "^2.4.5"
+    "mineflayer": "^4.34.0"
   }
 }

@@ -1,6 +1,3 @@
-// Creates a bot and loads behaviors from the behaviors folder (hot reloaded)
-// Behaviors are defined as a default export returning a cleanup function. bot.on is overridden for auto reload.
-
 import mineflayer from "mineflayer";
 import { watch, readdir } from "fs";
 
