@@ -1,6 +1,6 @@
 export default function (bot: Bot) {
   bot.on("messagestr", async (msg) => {
-    if (msg.endsWith("attack")) bot.attack(bot.nearestEntity()!);
+    //if (msg.endsWith("attack")) bot.attack(bot.nearestEntity()!);
     if (msg.endsWith("ping")) bot.chat("pong");
     if (msg.endsWith("target")) bot.chat(bot.target?.username ?? "none");
     // if (msg.endsWith("slam")) {

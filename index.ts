@@ -6,8 +6,8 @@ let on: mineflayer.Bot["on"];
 createBot();
 export function createBot() {
   bot = mineflayer.createBot({
-    username: "bot",
-    //  host: "server.botfights.hackcraft.hackclub.com",
+    username: "MaceyMcMaceface",
+    host: "server.botfights.hackcraft.hackclub.com",
     mainHand: "left",
     physicsEnabled: false,
   });
