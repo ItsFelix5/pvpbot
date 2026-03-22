@@ -15,4 +15,5 @@ Download the project
 Change the server ip in index.ts (it is currently set to the bot fight server)
 Run bun index.ts
 
-###### Yes I linked the readme as a demo. Idk what else I can do, sorry shipwrights :P
+*Make sure your server is on 1.21.4 or uses viaversion/viabackwards*
+*The server must be in offline mode for the bot to be able to connect*
