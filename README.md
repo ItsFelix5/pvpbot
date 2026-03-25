@@ -14,6 +14,8 @@ This bot based on mineflayer reads and hot reloads all files in ./behaviors and 
 2) Download the project
 3) Change the server ip in index.ts on line 10 (it is currently set to the bot fight server)
 4) Run bun index.ts
+5) Give it a mace and optionally egaps
+6) Say "go activate" in chat
 
 *Make sure your server is on 1.21.4 or uses viaversion/viabackwards*
 *The server must be in offline mode for the bot to be able to connect*
